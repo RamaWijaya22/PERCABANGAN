@@ -1,6 +1,6 @@
 #Nama           :Rama Wijaya
 #Kelas          :XI-TKJ-1
-#Nomor Absen    :23
+#Nomor Absen    :22
 #Soal           :Deskripsi Pekerjaan: Di sebuah toko online, Anda bertanggung jawab untuk menghitung diskon berdasarkan jumlah total belanjaan pelanggan.
 #Soal 1         :Buat program Python yang mengambil total belanjaan pelanggan dan memberikan diskon berdasarkan aturan berikut: Jika total belanjaan lebih dari 500.000, berikan diskon 10%. Jika total belanjaan antara 300.000 dan 500.000, berikan diskon 5%. Jika total belanjaan kurang dari 300.000, tidak ada diskon.
 

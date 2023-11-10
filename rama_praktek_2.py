@@ -1,6 +1,6 @@
 #Nama           :Rama Wijaya
 #Kelas          :XI-TKJ-1
-#Nomor Absen    :23
+#Nomor Absen    :22
 #Soal           :Deskripsi Pekerjaan: Sebagai seorang manajer proyek, Anda harus menentukan apakah suatu proyek akan selesai tepat waktu atau terlambat.
 #Soal 2         :Buat program Python yang mengambil estimasi waktu selesai proyek dan tanggal target selesai. Jika estimasi waktu selesai lebih awal atau sama dengan tanggal target, program harus mencetak "Tepat waktu," jika tidak, program harus mencetak "Terlambat."
 
